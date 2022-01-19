@@ -1,0 +1,12 @@
+.btn-eye {
+    background: url('../Images/eye.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.logo {
+    float: left;
+    height:100px; 
+    width:100px;
+    margin-left: 1%;
+}
